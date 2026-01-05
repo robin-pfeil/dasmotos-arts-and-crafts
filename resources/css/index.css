@@ -27,6 +27,13 @@ section h2 {
     color: white;
 }
 
+.starting-price {
+    /* Typography */
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
 section h2,
 article p {
     /* Box Model */
@@ -40,19 +47,16 @@ section h3 {
 }
 
 #brushes-title {
+    /* Visual */
     background-color: mediumspringgreen;
 }
 
 #frames-title {
+    /* Visual */
     background-color: lightcoral;
 }
 
 #paint-title {
+    /* Visual */
     background-color: skyblue;
-}
-
-.starting-price {
-    font-family: Helvetica, sans-serif;
-    font-weight: bold;
-    color: blue;
 }
