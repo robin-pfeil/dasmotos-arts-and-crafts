@@ -41,3 +41,9 @@ section h2 {
 #paint-title {
     background-color: skyblue;
 }
+
+.starting-price {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
