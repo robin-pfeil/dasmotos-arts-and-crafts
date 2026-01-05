@@ -18,3 +18,14 @@ h1 {
     /* Visual */
     background-image: url("/resources/images/pattern.jpeg");
 }
+
+section h2 {
+    /* Box Model */
+    margin: 20px 10px;
+
+    /* Typography */
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
