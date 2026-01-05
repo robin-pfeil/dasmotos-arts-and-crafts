@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+h1 {
+    /* Box Model */
+    margin: 80px 10px;
+
+    /* Typography */
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+
+    /* Visual */
+    background-image: url("/resources/images/pattern.jpeg");
+}
