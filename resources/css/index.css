@@ -20,14 +20,23 @@ h1 {
 }
 
 section h2 {
-    /* Box Model */
-    margin: 20px 10px;
-
     /* Typography */
     font-family: Helvetica, sans-serif;
     font-size: 32px;
     font-weight: bold;
     color: white;
+}
+
+section h2,
+article p {
+    /* Box Model */
+    margin: 10px 10px 20px;
+}
+
+section img,
+section h3 {
+    /* Box Model */
+    margin: 10px 10px;
 }
 
 #brushes-title {
