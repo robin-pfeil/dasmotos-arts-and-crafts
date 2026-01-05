@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    /* Box Model */
+    margin: 80px 10px;
+
+    /* Typography */
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+
+    /* Visual */
+    background-image: url("/resources/images/pattern.jpeg");
+}
+
+section h2 {
+    /* Typography */
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.starting-price {
+    /* Typography */
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+section h2,
+article p {
+    /* Box Model */
+    margin: 10px 10px 20px;
+}
+
+section img,
+section h3 {
+    /* Box Model */
+    margin: 10px 10px;
+}
+
+#brushes-title {
+    /* Visual */
+    background-color: mediumspringgreen;
+}
+
+#frames-title {
+    /* Visual */
+    background-color: lightcoral;
+}
+
+#paint-title {
+    /* Visual */
+    background-color: skyblue;
+}
